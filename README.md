@@ -18,3 +18,7 @@ Technologies
 * [workbench](https://github.com/lihaoyi/workbench)
 
 No routing or redux like technologies for now everything is locally managed in state
+
+App pulls in my local weather, subreddits I am interested in, and HN data into one easy to read page  on desktop and mobile
+
+[Dashboard](http://imgur.com/a/KF1nz)
